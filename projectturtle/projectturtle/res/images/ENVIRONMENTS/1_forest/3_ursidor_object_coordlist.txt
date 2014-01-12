@@ -1,0 +1,49 @@
+URSIDOR TREE/ROCK LIST
+
+from back to front; top-left point
+
+537,-250 tree2
+658,-219 tree4
+293,-171 tree4
+779,-171 tree3
+867,-142 tree4
+680,-75 tree3
+838,-44 tree1
+765,66 tree2
+72,-142 tree4
+12,66 tree3
+82,231 tree1
+150,259 tree2
+-88,134 tree1
+-69,352 tree3
+52,295 tree4
+-8,503 tree3
+62,668 tree1
+139,-109 tree2
+900,100 tree4
+411,-142 tree2
+815,734 tree4
+900,665 tree3
+855,843 tree2
+-50,684 tree2
+-79,949 tree3
+-29,919 tree1
+-79,1041 tree2
+852,968 tree3
+913,1050 tree1
+728,1104 tree2
+9,1125 tree4
+-50,1279 tree3
+59,1188 tree1
+125,1202 tree2
+780,208 tree3
+
+17,475 rock5b
+679,295 rock5a
+178,840 rock4b
+116,1183 rock4a
+650,762 rock3b
+106,220 rock3b
+622,134 rock3a
+290,512 rock2a
+752,958 rock1a

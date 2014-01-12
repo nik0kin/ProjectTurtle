@@ -1,0 +1,6 @@
+Ursidor:
+
+- 180px x 220px frames
+
+- Rows designate unique animation loops
+- Columns represent frames of individual animations

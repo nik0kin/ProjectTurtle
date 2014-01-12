@@ -1,0 +1,7 @@
+base spritesheet:
+-each individual frame is 64px x 84px
+
+anim spritesheet:
+-each individual frame is 164px x 184px
+       +++base frames fit directly in the middle of this; or 50px x 50px from top-left point
+-animations always follow this order: front, back, right, left
